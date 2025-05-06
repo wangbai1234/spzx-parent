@@ -1,1 +1,4 @@
 jdk建议使用17
+项目中包含了后端的ELEMENTplus和前端的nginx
+后端使用springboot的单体架构
+前端使用了微服务架构
